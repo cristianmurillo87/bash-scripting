@@ -1,0 +1,32 @@
+building file list ... done
+created directory ./backup/current
+logfiles/
+logfiles/alf.log
+logfiles/appfirewall.log
+logfiles/displaypolicyd.stdout.log
+logfiles/fsck_apfs.log
+logfiles/fsck_apfs_error.log
+logfiles/fsck_hfs.log
+logfiles/install.log
+logfiles/shutdown_monitor.log
+logfiles/system.log
+logfiles/wifi.log
+
+sent 380 bytes  received 86 bytes  932.00 bytes/sec
+total size is 28182990  speedup is 60478.52
+building file list ... done
+created directory ./backup/current
+logfiles/
+logfiles/alf.log
+logfiles/appfirewall.log
+logfiles/displaypolicyd.stdout.log
+logfiles/fsck_apfs.log
+logfiles/fsck_apfs_error.log
+logfiles/fsck_hfs.log
+logfiles/install.log
+logfiles/shutdown_monitor.log
+logfiles/system.log
+logfiles/wifi.log
+
+sent 28187182 bytes  received 246 bytes  56374856.00 bytes/sec
+total size is 28182990  speedup is 1.00
